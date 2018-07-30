@@ -1,0 +1,7 @@
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\bin\Debug\Інтерполяція.exe.config
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\bin\Debug\Інтерполяція.exe
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\bin\Debug\Інтерполяція.pdb
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\obj\Debug\Інтерполяція.csprojResolveAssemblyReference.cache
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\obj\Debug\Інтерполяція.csproj.CoreCompileInputs.cache
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\obj\Debug\Інтерполяція.exe
+c:\users\сергій\source\repos\Інтерполяція\Інтерполяція\obj\Debug\Інтерполяція.pdb
